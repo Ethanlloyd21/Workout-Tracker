@@ -1,5 +1,5 @@
 # Workout-Tracker
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> <img src="image/workout_tracker.png" alt="Workout Tracker" style="max-width:100%;"> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> <img src="image/workout_tracker.PNG" alt="Workout Tracker" style="max-width:100%;"> </a>
 - Workout-Tracker application tracks the user's exercise routine and outputs the result using charts (graphs).
 - <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> Click </a> on the image above for a video demo of the application.
 
@@ -9,7 +9,6 @@
 - [Install](#Install)
 - [Dependencies](#Dependencies)
 - [Technologies](#Technologies)
-- [Demo](#Demo)
 - [Author](#Author)
 - [License](#License)
 
@@ -19,15 +18,15 @@
 
 - Workout-Tracker application is build with Mongo database, a Mongoose schema and handle routes with Express using HTML, CSS, JavaScript and jQuery.
 
-![](image/dashboard.png)
+![](image/dashboard.PNG)
 
 - Users can view the stats (results) on their past 10 workouts.
 
-![](image/cardio.png)
+![](image/cardio.PNG)
 
 - Users can input info on the type of exercise (ie. Cardio). Setting up the distance and duration of the exercise and adding it to the application.
 
-![](image/resistance.png)
+![](image/resistance.PNG)
 
 - User also can enter information like sets and reps for Resistance type.
 
