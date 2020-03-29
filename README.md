@@ -9,7 +9,6 @@
 - [Install](#Install)
 - [Dependencies](#Dependencies)
 - [Technologies](#Technologies)
-- [Demo](#Demo)
 - [Author](#Author)
 - [License](#License)
 
