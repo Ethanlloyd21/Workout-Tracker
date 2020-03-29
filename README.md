@@ -19,15 +19,15 @@
 
 - Workout-Tracker application is build with Mongo database, a Mongoose schema and handle routes with Express using HTML, CSS, JavaScript and jQuery.
 
-![](image/dashboard.png)
+![](image/dashboard.PNG)
 
 - Users can view the stats (results) on their past 10 workouts.
 
-![](image/cardio.png)
+![](image/cardio.PNG)
 
 - Users can input info on the type of exercise (ie. Cardio). Setting up the distance and duration of the exercise and adding it to the application.
 
-![](image/resistance.png)
+![](image/resistance.PNG)
 
 - User also can enter information like sets and reps for Resistance type.
 
