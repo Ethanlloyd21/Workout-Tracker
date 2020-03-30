@@ -18,6 +18,7 @@
 # General Info
 
 - Workout-Tracker application is build with Mongo database, a Mongoose schema and handle routes with Express using HTML, CSS, JavaScript and jQuery.
+- The overall goal of this application was to design the back-end logic in order for the front-end to display exercise results. 
 
 ![](image/dashboard.PNG)
 
