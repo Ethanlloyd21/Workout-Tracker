@@ -1,6 +1,7 @@
 # Workout-Tracker
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> <img src="image/workout_tracker.PNG" alt="Workout Tracker" style="max-width:100%;"> </a>
 - Workout-Tracker application tracks the user's exercise routine and outputs the result using charts (graphs).
+#### Demo
 - <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> Click </a> on the image above for a video demo of the application.
 - ----> https://workout-tracker-mongodb.herokuapp.com/ <---- click here to check out the deployement on heroku.
 
