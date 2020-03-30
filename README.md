@@ -22,6 +22,7 @@
 #### Goal: 
 - The overall goal of this project is to design the back-end logic in order for the front-end to display exercise results. 
 
+#### App Overview:
 ![](image/dashboard.PNG)
 
 - Users can view the stats (results) on their past 10 workouts.
