@@ -1,9 +1,5 @@
 # Workout-Tracker
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> <img src="image/workout_tracker.PNG" alt="Workout Tracker" style="max-width:100%;"> </a>
-- Workout-Tracker application tracks the user's exercise routine and outputs the result using charts (graphs).
-#### Demo
-- <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> Click </a> on the image above for a video demo of the application.
-- ----> https://workout-tracker-mongodb.herokuapp.com/ <---- click here to check out the deployement on heroku.
+
 
 
 ## Table of contents
@@ -11,12 +7,14 @@
 - [Install](#Install)
 - [Dependencies](#Dependencies)
 - [Technologies](#Technologies)
+- [Demo](#Demo)
 - [Author](#Author)
 - [License](#License)
 
 
 
 # General Info
+- Workout-Tracker application tracks the user's exercise routine and outputs the result using charts (graphs).
 
 #### Build With: 
 - Workout-Tracker application is build with Mongo database, a Mongoose schema and handle routes with Express using HTML, CSS, JavaScript and jQuery.
@@ -106,6 +104,12 @@ node server.js
 - HTML5
 - CSS
 - jQuery 
+
+# Demo
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> <img src="image/workout_tracker.PNG" alt="Workout Tracker" style="max-width:100%;"> </a>
+
+- <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1fOzNEoUijjSD_r_xigmhTvubNVEDjY-j/view"> Click </a> on the image above for a video demo of the application.
+- ----> https://workout-tracker-mongodb.herokuapp.com/ <---- click here to check out the deployement on heroku.
 
 
 # Author
